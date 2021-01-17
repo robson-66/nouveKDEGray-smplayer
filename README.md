@@ -1,8 +1,5 @@
 # nouveKDEGray icon theme for SMPlayer
 
-Icons taken from nouveKDEGray
-License: GNU General Public License and GNU Lesser General Public License
-
 Installation:
 =============
 
