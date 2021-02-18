@@ -1,4 +1,4 @@
-# nouveKDEGray icon theme for SMPlayer
+# nouveKDEGray theme for SMPlayer
 
 Installation:
 =============
